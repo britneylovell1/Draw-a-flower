@@ -24,6 +24,3 @@ def draw_flower():
 
 draw_flower()
 turtle.exitonclick()
-    
-    
-    
