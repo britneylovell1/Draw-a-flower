@@ -1,9 +1,6 @@
-#Draw a flower using turtle
-
 import turtle
 
 window = turtle.Screen()
-
 
 def draw_triangle(some_turtle):
     some_turtle.forward(28*3)
